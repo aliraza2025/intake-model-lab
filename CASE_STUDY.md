@@ -1,4 +1,4 @@
-# Intake Model Lab — product case study
+# Zarra — product case study
 
 Stage: independent prototype.
 

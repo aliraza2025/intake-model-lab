@@ -12,5 +12,6 @@
     "test": "node --test",
     "build": "node build.mjs",
     "start": "node server.mjs"
-  }
+  },
+  "description": "Zarra \u2014 Small-model adaptation experiments. An independent Raza Labs prototype by Ali Raza."
 }

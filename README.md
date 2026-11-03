@@ -1,6 +1,8 @@
-# Intake Model Lab
+# Zarra
 
-![Project cover](public/cover.svg)
+**Small-model adaptation experiments · Raza Labs by Ali Raza**
+
+![Concept artwork for Zarra](public/project-cover.webp)
 
 A reproducible local BERT/PEFT intent-classification experiment comparing a rule baseline, an unadapted classifier, and a LoRA adapter on a synthetic held-out split.
 
@@ -52,3 +54,7 @@ The original browser source is in `public/`. `docs/` is generated for GitHub Pag
 Collect a more representative evaluation set, include ambiguous and out-of-domain requests, and test whether adaptation improves errors that the baseline actually makes.
 
 License: [MIT](LICENSE) for this repository's original source. See each dependency and model card for their respective terms.
+
+## Visual identity
+
+Original AI-generated concept artwork for the Raza Labs collection, matched to Ali Raza’s midnight-purple and pink portfolio studio. The cover is illustrative artwork; the interactive demo shows the actual prototype. Generation prompt: [ARTWORK.md](ARTWORK.md).
