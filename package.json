@@ -1,0 +1,16 @@
+{
+  "name": "intake-model-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "author": "Ali Raza",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "build": "node build.mjs",
+    "start": "node server.mjs"
+  }
+}

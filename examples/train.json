@@ -1,0 +1,152 @@
+[
+  {
+    "id": "train-handoff-7",
+    "text": "Let me talk to your supervisor.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-booking-2",
+    "text": "I want to schedule an appointment.",
+    "label": "booking"
+  },
+  {
+    "id": "train-quote-5",
+    "text": "Tell me the price before I decide.",
+    "label": "quote"
+  },
+  {
+    "id": "train-quote-3",
+    "text": "What is the rate for twenty windows?",
+    "label": "quote"
+  },
+  {
+    "id": "train-quote-9",
+    "text": "How much for a two-story house?",
+    "label": "quote"
+  },
+  {
+    "id": "train-quote-6",
+    "text": "Can you estimate my cleaning bill?",
+    "label": "quote"
+  },
+  {
+    "id": "train-handoff-5",
+    "text": "Get me a real staff member.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-handoff-2",
+    "text": "Please connect me to a manager.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-booking-8",
+    "text": "Schedule a window cleaning visit.",
+    "label": "booking"
+  },
+  {
+    "id": "train-handoff-4",
+    "text": "A person needs to handle my refund.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-quote-1",
+    "text": "How much does window cleaning cost?",
+    "label": "quote"
+  },
+  {
+    "id": "train-quote-10",
+    "text": "Can I get pricing for this service?",
+    "label": "quote"
+  },
+  {
+    "id": "train-quote-8",
+    "text": "Give me a cost breakdown.",
+    "label": "quote"
+  },
+  {
+    "id": "train-booking-1",
+    "text": "Please book a visit for next week.",
+    "label": "booking"
+  },
+  {
+    "id": "train-quote-2",
+    "text": "Please send a price estimate.",
+    "label": "quote"
+  },
+  {
+    "id": "train-booking-10",
+    "text": "Can you arrange our next cleaning?",
+    "label": "booking"
+  },
+  {
+    "id": "train-booking-9",
+    "text": "Reserve an afternoon slot.",
+    "label": "booking"
+  },
+  {
+    "id": "train-quote-4",
+    "text": "I need a quote for exterior cleaning.",
+    "label": "quote"
+  },
+  {
+    "id": "train-booking-3",
+    "text": "Can we reserve a cleaning time?",
+    "label": "booking"
+  },
+  {
+    "id": "train-booking-4",
+    "text": "Arrange a visit for Tuesday.",
+    "label": "booking"
+  },
+  {
+    "id": "train-handoff-1",
+    "text": "I need to speak to a human.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-handoff-10",
+    "text": "A manager should review this issue.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-handoff-3",
+    "text": "I want to make a complaint.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-booking-6",
+    "text": "I would like an appointment tomorrow.",
+    "label": "booking"
+  },
+  {
+    "id": "train-handoff-9",
+    "text": "Please transfer this to a person.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-handoff-8",
+    "text": "I have a complaint about the last job.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-booking-7",
+    "text": "Book the crew for Friday.",
+    "label": "booking"
+  },
+  {
+    "id": "train-handoff-6",
+    "text": "I need human help with a damaged window.",
+    "label": "handoff"
+  },
+  {
+    "id": "train-booking-5",
+    "text": "Please put me on the calendar.",
+    "label": "booking"
+  },
+  {
+    "id": "train-quote-7",
+    "text": "What would inside and outside cleaning cost?",
+    "label": "quote"
+  }
+]

@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.env
+.env.*
+!.env.example
+.model-cache/
+.runtime/
+outputs/
+__pycache__/
+*.pyc
+.DS_Store

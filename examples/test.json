@@ -1,0 +1,62 @@
+[
+  {
+    "id": "test-quote-1",
+    "text": "Could you provide an estimate for our exterior windows?",
+    "label": "quote"
+  },
+  {
+    "id": "test-quote-2",
+    "text": "What price would I pay for this job?",
+    "label": "quote"
+  },
+  {
+    "id": "test-quote-3",
+    "text": "I need to know the cost of the cleaning.",
+    "label": "quote"
+  },
+  {
+    "id": "test-quote-4",
+    "text": "Send pricing for the whole property.",
+    "label": "quote"
+  },
+  {
+    "id": "test-booking-1",
+    "text": "Could you book us in for Wednesday?",
+    "label": "booking"
+  },
+  {
+    "id": "test-booking-2",
+    "text": "I am ready to schedule the cleaning.",
+    "label": "booking"
+  },
+  {
+    "id": "test-booking-3",
+    "text": "Is there an appointment I can reserve?",
+    "label": "booking"
+  },
+  {
+    "id": "test-booking-4",
+    "text": "Put our next visit on the calendar.",
+    "label": "booking"
+  },
+  {
+    "id": "test-handoff-1",
+    "text": "A human should look at this complaint.",
+    "label": "handoff"
+  },
+  {
+    "id": "test-handoff-2",
+    "text": "I would prefer to talk with the manager.",
+    "label": "handoff"
+  },
+  {
+    "id": "test-handoff-3",
+    "text": "Please transfer me to a real person.",
+    "label": "handoff"
+  },
+  {
+    "id": "test-handoff-4",
+    "text": "I want a supervisor to review the refund.",
+    "label": "handoff"
+  }
+]

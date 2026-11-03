@@ -1,0 +1,1 @@
+import {python} from './python.mjs';import {present} from './public/core.js';export async function runLocal({input}){const output=await python('scripts/predict.py',input);return present(input.text,output.label,'LOCAL BERT + PEFT / ACTUAL INFERENCE',output.report);}export async function runAudio(){throw new Error('Audio is not supported.');}
